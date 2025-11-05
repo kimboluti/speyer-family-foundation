@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Speyer Family Foundation | Blog & News</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="blog.html">Blog & News</a>
+    </nav>
+    <h1>Blog & Announcements</h1>
+    <p>News, updates, and stories from our work</p>
+  </header>
+  <main>
+    <section>
+      <h2>Latest News</h2>
+      <article>
+        <h3>Comprehensive Service Review Launched</h3>
+        <p>We have initiated an RFP process for wealth management, accounting, and administrative services to enhance our operational efficiency.</p>
+      </article>
+      <article>
+        <h3>Succession Planning: Commitment to Continuity</h3>
+        <p>Our leadership actively maintains procedures for smooth transitions, ensuring the foundation's mission endures.</p>
+      </article>
+      <!-- Add more posts as needed -->
+    </section>
+    <footer>
+      <p>Contact | Privacy Policy | © 2025 Speyer Family Foundation</p>
+    </footer>
+  </main>
+</body>
+</html>
